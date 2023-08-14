@@ -61,22 +61,6 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 - Evaluate arithmetic expressions in Python.
 - Convert minutes to hours using basic operations.
 
-#### Here you can find screenshots of my notebook: 👁️‍🗨️
-
-<img width="581" alt="1-title" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/5facd886-2817-4d3e-b6f6-f083828ea073">
-<img width="799" alt="1-notebook" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/497a064b-1cf4-46a5-93c5-8a26dc6efb3e">
-<img width="770" alt="2 title" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/185a22aa-9a3a-4f2d-b540-5d1748fbe549">
-<img width="616" alt="3-title" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/514b53eb-e58a-4cd4-b263-9d991aba0051">
-<img width="609" alt="4-ds languages" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/f13bd3a2-ca54-4e0e-aaa8-d84eec9b5494">
-<img width="602" alt="5-ds libraries" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/fba94a4f-9313-4d2e-9715-45b379b63b43">
-<img width="589" alt="6-ds tools" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/7607eef1-d76b-41d2-a1d4-0e9b57ae7697">
-<img width="484" alt="7-introarithmetic in VScode" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/db37e122-3f78-4c44-8fcc-8ee44092e3d8">
-<img width="593" alt="7-introarithmetic" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/1240b1c9-53bf-470f-85a9-1c278ec708f1">
-<img width="539" alt="8-multiplyandaddintegers" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/7436c392-9cc2-4ce7-bfe4-17c6ee8125c9">
-<img width="547" alt="9-hourstominutes" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/c993b561-fbb6-4554-9d11-b9a0524c8859">
-<img width="569" alt="10-objectives" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/ef362c3e-b2ab-4feb-ab67-4609d2c4857d">
-<img width="581" alt="11-authordetails" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/51c29a4c-1826-464c-8c39-bb233885ceaa">
-
 
 ### Author 👩🏻‍💻🤖
 Shima Naderi
