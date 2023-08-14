@@ -55,5 +55,9 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 - Evaluate arithmetic expressions in Python.
 - Convert minutes to hours using basic operations.
 
+#### Here you can find screenshots of my notebook:
+<img width="611" alt="1-notebook" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/609cc021-5833-4964-b29f-4e4583f7e56b"> 
+
+
 ### Author
 Shima Naderi
