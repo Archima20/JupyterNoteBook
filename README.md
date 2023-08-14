@@ -43,6 +43,15 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 
 | Data Science Development Environment |
 |--------------------------------------|
-| Jupyter Notebook                    |
+| Jupyter Notebook                     |
 | RStudio                              |
 | Visual Studio Code                   |
+
+## Objectives:
+
+- List popular languages for Data Science.
+- Introduce commonly used data science libraries.
+- Understand data science development environment tools.
+- Evaluate arithmetic expressions in Python.
+- Convert minutes to hours using basic operations.
+
