@@ -10,7 +10,7 @@ I completed the practice notebook in both online and local environments:
 
 *In this notebook, you can find Data Science Tools and Ecosystems.*
 
-## Some of the popular languages that Data Scientists use are: 🗓️🗂️📑 
+## Some of the popular languages that Data Scientists use are: 🗓️📑 
 
 1. **Python**: Python is one of the most widely used languages in data science due to its rich ecosystem of libraries such as NumPy, pandas, matplotlib, and scikit-learn. It's known for its readability and versatility, making it a great choice for various data manipulation, analysis, and machine learning tasks.
 
@@ -26,7 +26,7 @@ I completed the practice notebook in both online and local environments:
 
 These languages offer a variety of tools and libraries that cater to different aspects of data science, from data cleaning and preprocessing to advanced machine learning modeling.
 
-## Some of the commonly used libraries used by Data Scientists include: 🗓️📊📈 
+## Some of the commonly used libraries used by Data Scientists include: 📊📈 
 
 1. **NumPy**: is a fundamental library for numerical computations in Python. It provides support for multi-dimensional arrays and matrices, along with a wide range of mathematical functions. Data scientists use NumPy for efficient data manipulation and numerical operations.
 
