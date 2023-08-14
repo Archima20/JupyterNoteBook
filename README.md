@@ -8,10 +8,7 @@ I completed the practice notebook in both online and local environments:
 
 - **Local Development**: Additionally, I worked on the same notebook using Visual Studio Code (VSCode). Working locally allowed me to customize my environment and leverage additional tools for coding.
 
-# Course Information
-This practice is part of the IBM course "Tools for Data Science," which covers a range of essential tools and techniques used in the field of data science. The course provides practical exercises and hands-on experiences to enhance our skills in working with data, data analysis, and more.
-
-In this notebook, you can find Data Science Tools and Ecosystems.
+*In this notebook, you can find Data Science Tools and Ecosystems.*
 
 ## Some of the popular languages that Data Scientists use are:
 
