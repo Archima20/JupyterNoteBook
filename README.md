@@ -1,7 +1,7 @@
 # JupyterNoteBook
 Tools for data science 
 
-
+In this notebook, you can find Data Science Tools and Ecosystems.
 
 ## Some of the popular languages that Data Scientists use are:
 
@@ -21,21 +21,21 @@ These languages offer a variety of tools and libraries that cater to different a
 
 ## Some of the commonly used libraries used by Data Scientists include:
 
-1. **NumPy**: NumPy is a fundamental library for numerical computations in Python. It provides support for multi-dimensional arrays and matrices, along with a wide range of mathematical functions. Data scientists use NumPy for efficient data manipulation and numerical operations.
+1. **NumPy**: is a fundamental library for numerical computations in Python. It provides support for multi-dimensional arrays and matrices, along with a wide range of mathematical functions. Data scientists use NumPy for efficient data manipulation and numerical operations.
 
-2. **pandas**: pandas is a powerful library for data manipulation and analysis. It offers data structures like DataFrames and Series, making it easy to handle and analyze structured data. It's commonly used for data cleaning, transformation, and exploration.
+2. **pandas**: is a powerful library for data manipulation and analysis. It offers data structures like DataFrames and Series, making it easy to handle and analyze structured data. It's commonly used for data cleaning, transformation, and exploration.
 
-3. **matplotlib**: matplotlib is a popular library for creating static, interactive, and animated visualizations in Python. It provides a wide range of plotting options, making it an essential tool for data visualization.
+3. **matplotlib**: is a popular library for creating static, interactive, and animated visualizations in Python. It provides a wide range of plotting options, making it an essential tool for data visualization.
 
-4. **scikit-learn**: scikit-learn is a machine learning library that provides simple and efficient tools for data mining and data analysis. It includes a wide variety of machine learning algorithms, preprocessing techniques, and model evaluation tools.
+4. **scikit-learn**: is a machine learning library that provides simple and efficient tools for data mining and data analysis. It includes a wide variety of machine learning algorithms, preprocessing techniques, and model evaluation tools.
 
-5. **TensorFlow and PyTorch**: These are deep learning frameworks that enable the creation and training of complex neural network models. They're widely used for tasks like image recognition, natural language processing, and other deep learning applications.
+5. **TensorFlow and PyTorch**: are deep learning frameworks that enable the creation and training of complex neural network models. They're widely used for tasks like image recognition, natural language processing, and other deep learning applications.
 
-6. **Seaborn**: Seaborn is a statistical data visualization library built on top of matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
+6. **Seaborn**: is a statistical data visualization library built on top of matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
 
-7. **StatsModels**: StatsModels is a library used for estimating and interpreting statistical models. It's particularly useful for performing various statistical analyses and hypothesis testing.
+7. **StatsModels**: is a library used for estimating and interpreting statistical models. It's particularly useful for performing various statistical analyses and hypothesis testing.
 
-8. **NLTK (Natural Language Toolkit)**: NLTK is a library for working with human language data. It's commonly used for tasks like text preprocessing, sentiment analysis, and language modeling.
+8. **NLTK (Natural Language Toolkit)**: is a library for working with human language data. It's commonly used for tasks like text preprocessing, sentiment analysis, and language modeling.
 
 These libraries form the core of the data science ecosystem and offer a wide range of tools for various aspects of data manipulation, analysis, visualization, and machine learning.
 
@@ -55,3 +55,5 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 - Evaluate arithmetic expressions in Python.
 - Convert minutes to hours using basic operations.
 
+### Author
+Shima Naderi
