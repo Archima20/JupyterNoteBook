@@ -1,16 +1,16 @@
-# About This Jupyter Notebook
-This repository contains my work for the "**Tools for Data Science**" course offered by **IBM**. Throughout the course, I completed various exercises and practices to enhance my understanding of data science tools and techniques. The course provides *practical exercises and hands-on experiences* to enhance our skills in working with data, data analysis, and more.
+# About This Jupyter Notebook 🗓️📊📈
+This repository contains my work for the "**Tools for Data Science**" course offered by **IBM**. Throughout the course, I completed various exercises and practices to enhance my understanding of data science tools and techniques. The course provides *practical exercises and hands-on experiences* to enhance our skills in working with data, data analysis, and more. 
 
-## Working Environments
+## Working Environments 💻👩🏻‍💻📝✅📲🪩💭
 I completed the practice notebook in both online and local environments:
 
 - **Online Platform**: I worked on the provided platform at IBM's JupyterLite Platform. This online environment allowed me to interact with the notebook directly in the browser.
 
-- **Local Development**: Additionally, I worked on the same notebook using Visual Studio Code (VSCode). Working locally allowed me to customize my environment and leverage additional tools for coding.
+- **Local Development**: Additionally, I worked on the same notebook using Visual Studio Code (VSCode). Working locally allowed me to customize my environment and leverage additional tools for coding. 
 
 *In this notebook, you can find Data Science Tools and Ecosystems.*
 
-## Some of the popular languages that Data Scientists use are:
+## Some of the popular languages that Data Scientists use are: 🗓️🗂️📑 
 
 1. **Python**: Python is one of the most widely used languages in data science due to its rich ecosystem of libraries such as NumPy, pandas, matplotlib, and scikit-learn. It's known for its readability and versatility, making it a great choice for various data manipulation, analysis, and machine learning tasks.
 
@@ -26,7 +26,7 @@ I completed the practice notebook in both online and local environments:
 
 These languages offer a variety of tools and libraries that cater to different aspects of data science, from data cleaning and preprocessing to advanced machine learning modeling.
 
-## Some of the commonly used libraries used by Data Scientists include:
+## Some of the commonly used libraries used by Data Scientists include: 🗓️📊📈 
 
 1. **NumPy**: is a fundamental library for numerical computations in Python. It provides support for multi-dimensional arrays and matrices, along with a wide range of mathematical functions. Data scientists use NumPy for efficient data manipulation and numerical operations.
 
@@ -46,7 +46,7 @@ These languages offer a variety of tools and libraries that cater to different a
 
 These libraries form the core of the data science ecosystem and offer a wide range of tools for various aspects of data manipulation, analysis, visualization, and machine learning.
 
-## Data Science Tools
+## Data Science Tools 📊📈
 
 | Data Science Development Environment |
 |--------------------------------------|
@@ -54,15 +54,14 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 | RStudio                              |
 | Visual Studio Code                   |
 
-## Objectives:
-
+## Objectives: 🦾
 - List popular languages for Data Science.
 - Introduce commonly used data science libraries.
 - Understand data science development environment tools.
 - Evaluate arithmetic expressions in Python.
 - Convert minutes to hours using basic operations.
 
-#### Here you can find screenshots of my notebook:
+#### Here you can find screenshots of my notebook: 👁️‍🗨️
 
 <img width="581" alt="1-title" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/5facd886-2817-4d3e-b6f6-f083828ea073">
 <img width="799" alt="1-notebook" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/497a064b-1cf4-46a5-93c5-8a26dc6efb3e">
@@ -79,5 +78,5 @@ These libraries form the core of the data science ecosystem and offer a wide ran
 <img width="581" alt="11-authordetails" src="https://github.com/Archima20/JupyterNoteBook/assets/116793955/51c29a4c-1826-464c-8c39-bb233885ceaa">
 
 
-### Author
+### Author 👩🏻‍💻🤖
 Shima Naderi
