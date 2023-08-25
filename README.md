@@ -1,5 +1,5 @@
 # About This Jupyter Notebook 🗓️📊📈
-This repository contains my work for the "**Tools for Data Science**" course offered by **IBM**. Throughout the course, I completed various exercises and practices to enhance my understanding of data science tools and techniques. The course provides *practical exercises and hands-on experiences* to enhance our skills in working with data, data analysis, and more. 
+This repository contains my work for the "**Tools for Data Science**" course offered by **IBM**.   In this course, I completed various exercises and practices to enhance my understanding of data science tools and techniques. The course provides *practical exercises and hands-on experiences* to enhance our skills in working with data, data analysis, and more. 
 
 ## Working Environments 💻👩🏻‍💻📝✅📲🪩💭
 I completed the practice notebook in both online and local environments:
